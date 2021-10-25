@@ -18,3 +18,33 @@ My expected plan is following the next journey in learning *Python*:
 + SciPy + Scikit-Learn: stats and classic ML algorithms
 + Tensorflow: Machine learging
 + Keras: Neurals Network
+
+## Day3
+Out of topic. I coded a little program in C# that interacts with Ms Excel, using the reference "http://Microsoft.Office.Interop.Excel"
+It didn't run but It will.
+
+## Day4
+I worked with a the Day3 file and I finally got to run the C# code. It was a simple application about registration of sales and vendors.
+
+## Day5
+I started with the Python Journey. 
+Following the suggestion of working in real-world problems, I started with a small app of webscrapping with #Requests and #BeautifulSoup.
+The main task was download 96 files from an academic website.
+
+## Day6
+I needed to create a script to allow sending customized emails in terms of body and attachments in a matter of one click. 
+To do so, I used the libraries: #Smtlib, #Pandas and #Email.mime.
+
+## Day7
+I took the book "Foundations for Analytics with Python" (Brownley, 2016) as a guidance.
+Started with the "Python basics building blocks":
+- Strings
+- Regular expressions and pattern matching
+- Dates
+- Lists
+
+## Day8
+Following with the "Python basics building blocks":
+- Tuples
+- Dictionaries
+- Control flow

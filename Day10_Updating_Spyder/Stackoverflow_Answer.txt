@@ -1,0 +1,3 @@
+# How to properly install Spyder 5.1.5
+
+https://stackoverflow.com/questions/69704561/cannot-update-spyder-5-1-5-on-new-anaconda-install

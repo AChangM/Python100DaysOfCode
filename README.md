@@ -48,3 +48,30 @@ Following with the "Python basics building blocks":
 - Tuples
 - Dictionaries
 - Control flow
+
+## Day9
+I worked with #DateTime libraries #Date and #Time. Worked with:
+- Database with date column
+- Attributes of a datetime object: year, month, day, weekday.
+- Calculating differences between two dates. 
+
+## Day10
+I had troubles updating Spyder to 5.1.5 version with Conda.
+The suggested and conventional way to update lead to 8 hours of proccessing without any success.
+Finally, I found a suggested solution from a Spyder maintainer
+
+```
+conda remove spyder
+conda remove python-language-server
+conda update anaconda
+conda install spyder=5.1.5
+``` 
+
+## Day11
+DateTime 
+
+```
+my_datetime = datetime = (year, month, day, hour, minute, second, microsecond)
+print(my_datetime)
+```
+2021-02-20 22:30:12.500000
